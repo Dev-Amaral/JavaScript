@@ -1,0 +1,14 @@
+table{
+    font-size: 20px;
+
+}
+thead{
+background-color: aqua;
+color: red;
+}
+
+tbody{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
